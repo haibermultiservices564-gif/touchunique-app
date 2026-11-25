@@ -1,6 +1,6 @@
 # Application — Touch Unique Gestion
 
-Dossier à publier à la racine du dépôt `touchunique-app`.
+Sources de l’application. Le dossier **à publier** est `../deploy/app/` (généré par `python ../deploy/prepare.py`), car le téléversement web de GitHub aplatit les dossiers.
 
 Fichiers clés :
 
